@@ -5,6 +5,8 @@
 - Never ever stop learning.
 - 🌱 I'm always trying to learn.
 
+[blog.jj-pa.net](blog.jj-pa.net)
+
 ### Languages and Tools:
 
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][github]
