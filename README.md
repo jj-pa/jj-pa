@@ -1,6 +1,6 @@
 ### Hello World 🌏
 
-# [blog.jj-pa.net](blog.jj-pa.net)
+# [http://blog.jj-pa.net](http://blog.jj-pa.net)
 
 ## I'm a Software Engineer
 
