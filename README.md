@@ -1,11 +1,11 @@
 ### Hello World 🌏
 
+# [blog.jj-pa.net](blog.jj-pa.net)
+
 ## I'm a Software Engineer
 
 - Never ever stop learning.
 - 🌱 I'm always trying to learn.
-
-[blog.jj-pa.net](blog.jj-pa.net)
 
 ### Languages and Tools:
 
