@@ -1,5 +1,6 @@
 ## Hello World 🌏
 
+### [Daily](https://daily.parkjeongjin.dev)
 ### [Blog](http://blog.jj-pa.net)
 
 ## I'm a Software Engineer
