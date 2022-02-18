@@ -1,7 +1,8 @@
 ## Hello World 🌏
 
-### [Daily](https://daily.parkjeongjin.dev)
-### [Blog](http://blog.jj-pa.net)
+<a href="https://daily.parkjeongjin.dev" target="_blank">Daily Life</a>
+
+<a href="http://blog.jj-pa.net" target="_blank">Blog</a>
 
 ## I'm a Software Engineer
 
