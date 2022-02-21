@@ -1,6 +1,6 @@
 ## Hello World 🌏
 
-<a href="https://daily.parkjeongjin.dev" target="_blank">Daily Life</a>
+<a href="https://daily.parkjeongjin.dev/about-me" target="_blank">About Me</a>
 
 <a href="http://blog.jj-pa.net" target="_blank">Blog</a>
 
