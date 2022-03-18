@@ -1,4 +1,4 @@
-## Hello World 🌏
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="25px"> Hello World
 
 <a href="https://daily.parkjeongjin.dev/about-me" target="_blank">About Me</a>
 
@@ -23,3 +23,5 @@
 ---
 
 [github]: https://github.com/jj-pa
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krap9482@gmail.com)](mailto:krap9482@gmail.com)
