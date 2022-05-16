@@ -4,8 +4,6 @@
 
 <a href="http://blog.jj-pa.net" target="_blank">Blog</a>
 
-<a href="https://github.com/jeongjin-park" target="_blank">자비스앤빌런즈 계정</a>
-
 ## I'm a Software Engineer
 
 - Never ever stop learning.
