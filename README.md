@@ -1,4 +1,4 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="25px"> Hello World
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="4%"> Hello World
 
 <a href="https://daily.parkjeongjin.dev/about-me" target="_blank">About Me</a>
 
