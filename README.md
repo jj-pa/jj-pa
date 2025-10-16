@@ -1,8 +1,8 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="4%"> Hello World
 
-<a href="https://daily.parkjeongjin.dev/about-me" target="_blank">About Me</a>
+<strike><a href="https://daily.parkjeongjin.dev/about-me" target="_blank">About Me</a></strike>
 
-<a href="http://blog.jj-pa.net" target="_blank">Blog</a>
+<strike><a href="http://blog.jj-pa.net" target="_blank">Blog</a></strike>
 
 ## I'm a Software Engineer
 
